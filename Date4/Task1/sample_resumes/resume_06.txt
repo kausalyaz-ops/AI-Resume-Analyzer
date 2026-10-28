@@ -1,0 +1,22 @@
+JAMIE PARK
+Junior Data Analyst
+jamie.park@example.test | Harborlight
+
+SUMMARY
+Fictional early-career analyst who enjoys turning operational data into clear, useful reports. Comfortable asking questions, checking data quality, and sharing findings with nontechnical partners.
+
+EXPERIENCE
+Data Assistant | Paper Kite Cooperative | 2023-2025
+- Cleaned and reconciled monthly inventory spreadsheets for four departments.
+- Created a recurring dashboard to track fulfillment time and stock variance.
+- Documented metric definitions so reports remained consistent.
+
+Research Intern | Bright Meadow Lab | 2022-2023
+- Organized survey responses and prepared charts for research presentations.
+- Checked source records and flagged missing or inconsistent values.
+
+EDUCATION
+B.S. Applied Mathematics, Sample Bay University | 2023
+
+SKILLS
+SQL, Excel, Python, data visualization, quality checks, written communication

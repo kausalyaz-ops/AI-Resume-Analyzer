@@ -1,0 +1,22 @@
+RILEY QUINN
+Frontend Developer
+riley.quinn@example.test | Juniper Crossing
+
+SUMMARY
+Fictional frontend developer interested in accessible, maintainable web experiences. Experienced collaborating with designers and backend developers from early prototypes through production support.
+
+EXPERIENCE
+Frontend Developer | Cloudberry Works | 2022-2025
+- Built responsive interface components for an internal scheduling product.
+- Improved keyboard navigation and documented accessibility decisions.
+- Added component tests and worked with QA to reproduce reported issues.
+
+Web Developer Intern | Little Comet Digital | 2021-2022
+- Implemented page layouts from design files using HTML, CSS, and JavaScript.
+- Reviewed code with mentors and maintained a small pattern library.
+
+EDUCATION
+B.S. Information Systems, Example State College | 2022
+
+SKILLS
+TypeScript, React, HTML, CSS, accessibility, testing, Git
