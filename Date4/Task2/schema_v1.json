@@ -1,0 +1,62 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ResumeExtractionV1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "candidate_name",
+    "skills",
+    "years_of_experience",
+    "education",
+    "strengths",
+    "gaps"
+  ],
+  "properties": {
+    "candidate_name": {
+      "type": ["string", "null"]
+    },
+    "skills": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["name", "evidence"],
+        "properties": {
+          "name": {
+            "type": "string",
+            "minLength": 1
+          },
+          "evidence": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    },
+    "years_of_experience": {
+      "type": ["number", "null"],
+      "minimum": 0
+    },
+    "education": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "strengths": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "gaps": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    }
+  }
+}
