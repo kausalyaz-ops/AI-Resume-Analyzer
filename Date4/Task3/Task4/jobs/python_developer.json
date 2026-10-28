@@ -1,0 +1,13 @@
+{
+  "job_id": "python_developer",
+  "title": "Python Developer",
+  "description": "Build and maintain Python services and APIs, write tests, work with relational data, and collaborate through version control. The role values practical debugging, readable code, and reliable delivery.",
+  "required_skills": [
+    "Python",
+    "REST APIs",
+    "SQL",
+    "testing",
+    "Git",
+    "debugging"
+  ]
+}

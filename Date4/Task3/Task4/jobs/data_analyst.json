@@ -1,0 +1,13 @@
+{
+  "job_id": "data_analyst",
+  "title": "Data Analyst",
+  "description": "Analyze operational and customer data, validate data quality, use SQL and spreadsheets, and communicate findings with clear reports and visualizations. The role values careful reasoning and practical statistical analysis.",
+  "required_skills": [
+    "SQL",
+    "Excel",
+    "Python",
+    "data visualization",
+    "data quality",
+    "statistical analysis"
+  ]
+}

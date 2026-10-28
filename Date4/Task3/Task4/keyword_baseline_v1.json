@@ -1,0 +1,111 @@
+{
+  "method": "exact required-skill term coverage",
+  "jobs": [
+    {
+      "job_title": "Data Analyst",
+      "candidates": [
+        {
+          "candidate_id": "resume_06",
+          "resume": "resume_06.txt",
+          "keyword_score": 83,
+          "rank": 1
+        },
+        {
+          "candidate_id": "resume_01",
+          "resume": "resume_01.pdf",
+          "keyword_score": 17,
+          "rank": 2
+        },
+        {
+          "candidate_id": "resume_02",
+          "resume": "resume_02.pdf",
+          "keyword_score": 0,
+          "rank": 3
+        },
+        {
+          "candidate_id": "resume_03",
+          "resume": "resume_03.pdf",
+          "keyword_score": 0,
+          "rank": 4
+        },
+        {
+          "candidate_id": "resume_04",
+          "resume": "resume_04.pdf",
+          "keyword_score": 0,
+          "rank": 5
+        },
+        {
+          "candidate_id": "resume_05",
+          "resume": "resume_05.txt",
+          "keyword_score": 0,
+          "rank": 6
+        },
+        {
+          "candidate_id": "resume_07",
+          "resume": "resume_07.txt",
+          "keyword_score": 0,
+          "rank": 7
+        },
+        {
+          "candidate_id": "resume_08",
+          "resume": "resume_08.txt",
+          "keyword_score": 0,
+          "rank": 8
+        }
+      ]
+    },
+    {
+      "job_title": "Python Developer",
+      "candidates": [
+        {
+          "candidate_id": "resume_01",
+          "resume": "resume_01.pdf",
+          "keyword_score": 50,
+          "rank": 1
+        },
+        {
+          "candidate_id": "resume_06",
+          "resume": "resume_06.txt",
+          "keyword_score": 33,
+          "rank": 2
+        },
+        {
+          "candidate_id": "resume_08",
+          "resume": "resume_08.txt",
+          "keyword_score": 33,
+          "rank": 3
+        },
+        {
+          "candidate_id": "resume_02",
+          "resume": "resume_02.pdf",
+          "keyword_score": 0,
+          "rank": 4
+        },
+        {
+          "candidate_id": "resume_03",
+          "resume": "resume_03.pdf",
+          "keyword_score": 0,
+          "rank": 5
+        },
+        {
+          "candidate_id": "resume_04",
+          "resume": "resume_04.pdf",
+          "keyword_score": 0,
+          "rank": 6
+        },
+        {
+          "candidate_id": "resume_05",
+          "resume": "resume_05.txt",
+          "keyword_score": 0,
+          "rank": 7
+        },
+        {
+          "candidate_id": "resume_07",
+          "resume": "resume_07.txt",
+          "keyword_score": 0,
+          "rank": 8
+        }
+      ]
+    }
+  ]
+}

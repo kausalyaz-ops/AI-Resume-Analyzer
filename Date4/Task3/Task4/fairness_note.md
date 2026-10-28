@@ -1,0 +1,4 @@
+- Automated scores can reproduce bias in historical hiring patterns and may disadvantage candidates with nontraditional careers or resume formats.
+- Keyword matching and LLM interpretation can miss transferable skills, context, accommodations, and equivalent experience.
+- Names, schools, employers, employment gaps, and writing style can act as proxies for protected traits even when not requested.
+- A trained human must inspect cited evidence, verify job relevance, consider context and accommodations, and never use the score as a sole hiring decision.
