@@ -1,0 +1,8 @@
+faiss-cpu
+qdrant-client
+sentence-transformers
+numpy
+PyMuPDF
+python-docx
+langchain-text-splitters
+tiktoken

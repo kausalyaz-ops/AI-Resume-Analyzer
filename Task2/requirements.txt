@@ -1,0 +1,6 @@
+PyMuPDF
+python-docx
+langchain-text-splitters
+tiktoken
+sentence-transformers
+numpy
